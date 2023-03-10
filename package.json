@@ -1,0 +1,10 @@
+{
+  "name": "typing-js",
+  "version": "1.0.0",
+  "description": "Try implement typing javascript methods and etc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
