@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "Try implement typing javascript methods and etc",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "npx tsc",
+    "test": "jest src/tests/"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "typescript": "^4.9.5"
+  }
 }
