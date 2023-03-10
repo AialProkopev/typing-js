@@ -10,3 +10,5 @@ function myMap<T>(
   }
   return arr;
 }
+
+module.exports = myMap;
